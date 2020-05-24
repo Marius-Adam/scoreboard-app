@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/scoreboard-app/static/css/main.a9401042.chunk.css",
+    "main.js": "/scoreboard-app/static/js/main.aaed7b41.chunk.js",
+    "main.js.map": "/scoreboard-app/static/js/main.aaed7b41.chunk.js.map",
+    "runtime-main.js": "/scoreboard-app/static/js/runtime-main.b663519e.js",
+    "runtime-main.js.map": "/scoreboard-app/static/js/runtime-main.b663519e.js.map",
+    "static/js/2.669d4b7d.chunk.js": "/scoreboard-app/static/js/2.669d4b7d.chunk.js",
+    "static/js/2.669d4b7d.chunk.js.map": "/scoreboard-app/static/js/2.669d4b7d.chunk.js.map",
+    "index.html": "/scoreboard-app/index.html",
+    "precache-manifest.086f8a6ba9477e64195bf0dd5e0b4e43.js": "/scoreboard-app/precache-manifest.086f8a6ba9477e64195bf0dd5e0b4e43.js",
+    "service-worker.js": "/scoreboard-app/service-worker.js",
+    "static/css/main.a9401042.chunk.css.map": "/scoreboard-app/static/css/main.a9401042.chunk.css.map",
+    "static/js/2.669d4b7d.chunk.js.LICENSE.txt": "/scoreboard-app/static/js/2.669d4b7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b663519e.js",
+    "static/js/2.669d4b7d.chunk.js",
+    "static/css/main.a9401042.chunk.css",
+    "static/js/main.aaed7b41.chunk.js"
+  ]
+}
