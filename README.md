@@ -16,3 +16,8 @@ I built this scoreboard app as part of the Treehouse Learn React Track. This cou
   <li>Add & Remove players</li>
   <li>View individual player scores along with total number of players and total score</li>
 </ul>
+
+## To do
+
+- [ ] Refactor code to React 16.9
+- [ ] Add a crown to player with most points
