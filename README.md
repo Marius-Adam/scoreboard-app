@@ -2,7 +2,7 @@
 
 ![React Scoreboard App](README.png?raw=true "React Scoreboard App")
 
-### <a href="https://marius-adam.github.io/responsive-navbar/">LIVE DEMO</a>
+### <a href="https://marius-adam.github.io/scoreboard-app/">LIVE DEMO</a>
 
 ## Description
 
